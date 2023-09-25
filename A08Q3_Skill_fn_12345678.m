@@ -4,17 +4,8 @@ function [x, w, y] = A08Q3_Skill_fn_12345678(g, h, f)
 % Program Description 
 %   Function template for MATLAB Skills - UDFs
 %
-% Assignment Information
-%   Assignment:     A08, Problem 3
-%   Author:         zkanoca, zkanoca@purdue.edu
-%   Team ID:        ###-##
-%   Academic Integrity:
-%     [] I worked with one or more peers but our collaboration
-%        maintained academic integrity.
-%     Peers I worked with: Name, login@purdue [repeat for each]
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Q3. Instruction Text
-% A08_skills(12345678,3) ran at 14-Sep-2021 21:08:06 UTC
 % 
 % Part A: Write a function that meets the following expectations:
 %   Function name:
@@ -73,14 +64,3 @@ p = x * w - y;
 fprintf('Value of p: %.2f\n', p);
 
 end
-
-
-%% ____________________
-%% ACADEMIC INTEGRITY STATEMENT
-% I have not used source code obtained from any other unauthorized
-% source, either modified or unmodified.  Neither have I provided
-% access to my code to another. The function I am submitting
-% is my own original work.
-
-
-
