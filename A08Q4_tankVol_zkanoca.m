@@ -19,14 +19,6 @@ function [maxTankVol, fluidVol, drainageTime] = A08Q4_tankVol_dozsu(tankDimensio
 % fluidVol: Scalar for the fluid volume inside the tank (m^3)
 % drainageTime: Scalar for the drain time (seconds)
 %
-% Assignment Information:
-%   Assignment:     A08, Problem 4
-%   Author:         zkanoca, zkanoca@purdue.edu
-%   Team ID:        Your Team ID
-%   Academic Integrity:
-%     [ ] I worked with one or more peers but our collaboration
-%        maintained academic integrity.
-%     Peers I worked with: Your Peer's Name, peer.email@purdue
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% ____________________
@@ -61,10 +53,3 @@ end
     fprintf('Fluid Volume: %f m^3\n', fluidVol);
     fprintf('Drainage Time: %f seconds\n', drainageTime);
 end
-
-%% ____________________
-%% ACADEMIC INTEGRITY STATEMENT
-% I have not used source code obtained from any other unauthorized
-% source, either modified or unmodified.  Neither have I provided
-% access to my code to another. The function I am submitting
-% is my own original work.
