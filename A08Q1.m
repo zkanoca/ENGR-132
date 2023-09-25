@@ -3,21 +3,12 @@
 % Program Description 
 % Script for MATLAB Skills - FOR Loop
 %
-% Assignment Information
-%   Assignment:     A08, Problem 1
-%   Author:         Name, login@purdue.edu
-%   Team ID:        ###-##
-%   Academic Integrity:
-%     [] I worked with one or more peers but our collaboration
-%        maintained academic integrity.
-%     Peers I worked with: Name, login@purdue [repeat for each]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 %% INSTRUCTION TEXT
 
 % Q1. Instruction Text
-% A08_skills(XXXXXXXXXX,1) ran at 24-Sep-2021 07:00:28 UTC
 % 
 % Flowchart Instructions
 %   M: Initialize variable M to 12
@@ -52,10 +43,3 @@ disp(S);
 
 % Display number of completed iterations
 disp(length(Z))
-
-%% ____________________
-%% ACADEMIC INTEGRITY STATEMENT
-% I have not used source code obtained from any other unauthorized
-% source, either modified or unmodified.  I have not provided
-% access to my code to anyone in any way. The script I am 
-% submitting is my own original work.
