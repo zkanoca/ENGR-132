@@ -5,14 +5,6 @@
 % aggragete based on force-displacement data. It displays the force
 % and work as a function of displacement in graphical.
 %
-% Assignment Information
-%   Assignment:     A08, Problem 2
-%   Author:         zkanoca, zkanoca@purdue.edu
-%   Team ID:        ###-##
-%   Academic Integrity:
-%     [] I worked with one or more peers but our collaboration
-%        maintained academic integrity.
-%     Peers I worked with: Name, login@purdue [repeat for each]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -54,12 +46,4 @@ title(['Work vs. Displacement, Total Work: ', num2str(total_work), ' Joules']);
 grid on;
 
 % Saving figure
-saveas(gcf, 'A08Q2_figure_dozsu.png');
-
-
-%% ____________________
-%% ACADEMIC INTEGRITY STATEMENT
-% I have not used source code obtained from any other unauthorized
-% source, either modified or unmodified. I have not provided
-% access to my code to anyone in any way. The script I am 
-% submitting is my own original work.
+saveas(gcf, 'A08Q2_figure_zkanoca.png');
